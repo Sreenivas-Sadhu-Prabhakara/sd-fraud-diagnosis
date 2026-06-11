@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-fraud-diagnosis
+description: "BIAN Service Domain: Fraud Diagnosis (Assess pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - assess
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Financial Crime"
+  bian/asset-type: "Fraud Case"
+  bian/control-record: "Fraud Case Assessment"
